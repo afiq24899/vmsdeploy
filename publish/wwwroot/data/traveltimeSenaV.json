@@ -1,0 +1,84 @@
+{
+  "senaETA": [
+    {
+      "id": 1,
+      "eventType": "1",
+      "sname": "VZ001",
+      "name": "TIMES SQUARE",
+      "datetime": "29/01/2020 11:06:19",
+      "eta": "14"
+    },
+    {
+      "id": 1,
+      "eventType": "1",
+      "sname": "VZ001",
+      "name": "MID VALLEY",
+      "datetime": "30/01/2020 15:20:21",
+      "eta": "16"
+    },
+    {
+      "id": 2,
+      "eventType": "1",
+      "sname": "VZ002",
+      "name": "LOT 10",
+      "datetime": "01/01/2014 00:00:00",
+      "eta": "13"
+    },
+    {
+      "id": 2,
+      "eventType": "1",
+      "sname": "VZ002",
+      "name": "FAHRENHEIT88",
+      "datetime": "01/01/2014 00:00:00",
+      "eta": "34"
+    },
+    {
+      "id": 3,
+      "eventType": "1",
+      "sname": "VZ003",
+      "name": "STARHILL GALLERY",
+      "datetime": "30/01/2020 15:20:14",
+      "eta": "32"
+    },
+    {
+      "id": 3,
+      "eventType": "1",
+      "sname": "VZ003",
+      "name": "PAVILION",
+      "datetime": "17/12/2019 10:13:02",
+      "eta": "NA"
+    },
+    {
+      "id": 4,
+      "eventType": "1",
+      "sname": "VZ004",
+      "name": "KLCC",
+      "datetime": "30/01/2020 15:20:08",
+      "eta": "72"
+    },
+    {
+      "id": 4,
+      "eventType": "1",
+      "sname": "VZ004",
+      "name": "SEMUA HOUSE",
+      "datetime": "01/01/2014 00:00:00",
+      "eta": "33"
+    },
+    {
+      "id": 5,
+      "eventType": "1",
+      "sname": "VZ005",
+      "name": "PT80",
+      "datetime": "01/01/2014 00:00:00",
+      "eta": "NA"
+    },
+    {
+      "id": 5,
+      "eventType": "1",
+      "sname": "VZ005",
+      "name": "CAPITAL SQUARE",
+      "datetime": "01/01/2014 00:00:00",
+      "eta": "44"
+    }
+  ]
+}

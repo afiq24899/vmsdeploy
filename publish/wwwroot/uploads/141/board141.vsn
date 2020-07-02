@@ -1,0 +1,267 @@
+{
+  "Programs": {
+    "Program": {
+      "Information": {
+        "Width": "768",
+        "Height": "128"
+      },
+      "Pages": [
+        {
+          "Name": "Message 1-ParkingInfo",
+          "AppointDuration": "1000",
+          "LoopType": "0",
+          "Regions": [
+            {
+              "Name": "Logo 1",
+              "type": "1",
+              "Layer": 1,
+              "Rect": {
+                "X": "0",
+                "Y": "0",
+                "Width": "192",
+                "Height": "64",
+                "BorderWidth": "2",
+                "BorderColor": "0xFF000000"
+              },
+              "Items": [
+                {
+                  "Type": "2",
+                  "FileSource": {
+                    "IsRelative": "1",
+                    "FilePath": "./board141.files/pt80_192x64.png"
+                  },
+                  "TextColor": null,
+                  "Text": null,
+                  "IsScroll": null,
+                  "CentralAlign": null,
+                  "BgColor": null,
+                  "fontSize": null,
+                  "LogFont": null
+                }
+              ]
+            },
+            {
+              "Name": "Info 1",
+              "type": "1",
+              "Layer": 1,
+              "Rect": {
+                "X": "192",
+                "Y": "0",
+                "Width": "192",
+                "Height": "64",
+                "BorderWidth": "2",
+                "BorderColor": "0xFF000000"
+              },
+              "Items": [
+                {
+                  "Type": "4",
+                  "FileSource": null,
+                  "TextColor": "#00FF00",
+                  "Text": "OPEN",
+                  "IsScroll": "0",
+                  "CentralAlign": null,
+                  "BgColor": null,
+                  "fontSize": null,
+                  "LogFont": {
+                    "lfHeight": "53",
+                    "lfWeight": "400",
+                    "lfQuality": "3",
+                    "lfCharSet": "1",
+                    "lfPitchAndFamily": "32",
+                    "lfFaceName": "Arial"
+                  }
+                }
+              ]
+            },
+            {
+              "Name": "Logo 2",
+              "type": "1",
+              "Layer": 1,
+              "Rect": {
+                "X": "0",
+                "Y": "64",
+                "Width": "192",
+                "Height": "64",
+                "BorderWidth": "2",
+                "BorderColor": "0xFF000000"
+              },
+              "Items": [
+                {
+                  "Type": "2",
+                  "FileSource": {
+                    "IsRelative": "1",
+                    "FilePath": "./board141.files/pt80_192x64.png"
+                  },
+                  "TextColor": null,
+                  "Text": null,
+                  "IsScroll": null,
+                  "CentralAlign": null,
+                  "BgColor": null,
+                  "fontSize": null,
+                  "LogFont": null
+                }
+              ]
+            },
+            {
+              "Name": "Info 2",
+              "type": "1",
+              "Layer": 1,
+              "Rect": {
+                "X": "192",
+                "Y": "64",
+                "Width": "192",
+                "Height": "64",
+                "BorderWidth": "2",
+                "BorderColor": "0xFF000000"
+              },
+              "Items": [
+                {
+                  "Type": "4",
+                  "FileSource": null,
+                  "TextColor": "#00FF00",
+                  "Text": "OPEN",
+                  "IsScroll": "0",
+                  "CentralAlign": null,
+                  "BgColor": null,
+                  "fontSize": null,
+                  "LogFont": {
+                    "lfHeight": "53",
+                    "lfWeight": "400",
+                    "lfQuality": "3",
+                    "lfCharSet": "1",
+                    "lfPitchAndFamily": "32",
+                    "lfFaceName": "Arial"
+                  }
+                }
+              ]
+            },
+            {
+              "Name": "Logo 3",
+              "type": "1",
+              "Layer": 1,
+              "Rect": {
+                "X": "384",
+                "Y": "0",
+                "Width": "192",
+                "Height": "64",
+                "BorderWidth": "2",
+                "BorderColor": "0xFF000000"
+              },
+              "Items": [
+                {
+                  "Type": "2",
+                  "FileSource": {
+                    "IsRelative": "1",
+                    "FilePath": "./board141.files/pt80_192x64.png"
+                  },
+                  "TextColor": null,
+                  "Text": null,
+                  "IsScroll": null,
+                  "CentralAlign": null,
+                  "BgColor": null,
+                  "fontSize": null,
+                  "LogFont": null
+                }
+              ]
+            },
+            {
+              "Name": "Info 3",
+              "type": "1",
+              "Layer": 1,
+              "Rect": {
+                "X": "576",
+                "Y": "0",
+                "Width": "192",
+                "Height": "64",
+                "BorderWidth": "2",
+                "BorderColor": "0xFF000000"
+              },
+              "Items": [
+                {
+                  "Type": "4",
+                  "FileSource": null,
+                  "TextColor": "#00FF00",
+                  "Text": "OPEN",
+                  "IsScroll": "0",
+                  "CentralAlign": null,
+                  "BgColor": null,
+                  "fontSize": null,
+                  "LogFont": {
+                    "lfHeight": "53",
+                    "lfWeight": "400",
+                    "lfQuality": "3",
+                    "lfCharSet": "1",
+                    "lfPitchAndFamily": "32",
+                    "lfFaceName": "Arial"
+                  }
+                }
+              ]
+            },
+            {
+              "Name": "Logo 4",
+              "type": "1",
+              "Layer": 1,
+              "Rect": {
+                "X": "384",
+                "Y": "64",
+                "Width": "192",
+                "Height": "64",
+                "BorderWidth": "2",
+                "BorderColor": "0xFF000000"
+              },
+              "Items": [
+                {
+                  "Type": "2",
+                  "FileSource": {
+                    "IsRelative": "1",
+                    "FilePath": "./board141.files/pt80_192x64.png"
+                  },
+                  "TextColor": null,
+                  "Text": null,
+                  "IsScroll": null,
+                  "CentralAlign": null,
+                  "BgColor": null,
+                  "fontSize": null,
+                  "LogFont": null
+                }
+              ]
+            },
+            {
+              "Name": "Info 4",
+              "type": "1",
+              "Layer": 1,
+              "Rect": {
+                "X": "576",
+                "Y": "64",
+                "Width": "192",
+                "Height": "64",
+                "BorderWidth": "2",
+                "BorderColor": "0xFF000000"
+              },
+              "Items": [
+                {
+                  "Type": "4",
+                  "FileSource": null,
+                  "TextColor": "#00FF00",
+                  "Text": "OPEN",
+                  "IsScroll": "0",
+                  "CentralAlign": null,
+                  "BgColor": null,
+                  "fontSize": null,
+                  "LogFont": {
+                    "lfHeight": "53",
+                    "lfWeight": "400",
+                    "lfQuality": "3",
+                    "lfCharSet": "1",
+                    "lfPitchAndFamily": "32",
+                    "lfFaceName": "Arial"
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  }
+}
